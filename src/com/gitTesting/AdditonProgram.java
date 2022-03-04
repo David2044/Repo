@@ -7,6 +7,7 @@ public class AdditonProgram {
 		int b=20;
 		
 		int c=a+b;
+		//This will give you output
 		 System.out.println(c);
 	}
 
