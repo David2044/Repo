@@ -8,7 +8,7 @@ public class AdditonProgram {
 		
 		int c=a+b;
 		//This will give you output
-		 System.out.println(c);
+		 System.out.println(c + "" + "test");
 	}
 
 }
